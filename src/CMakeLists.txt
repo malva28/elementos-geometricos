@@ -1,0 +1,1 @@
+add_library(elem_geometricos INTERFACE Vector.h Poligono.h Segmento.h FloatComparison.h)
